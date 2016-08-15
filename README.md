@@ -1,2 +1,2 @@
 # FreeCodeCamp
-Free Code Camp solutions
+Free Code Camp Solutions and Work in Progress
