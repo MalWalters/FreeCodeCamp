@@ -1,0 +1,26 @@
+body {
+  background: #FFFFFF;
+}
+
+.heading {
+  font-family: Sans-Serif, Calibri, Arial, Time New Roman;
+  text-align: center;
+}
+
+.quote-area{
+  background: #CDCECD;
+  margin-top: 30px;
+  border-radius: 20px;
+  padding: 30px;  
+  border: solid;
+}
+.quote {
+  padding: 5px;
+  font-family: Sans-Serif, Cambria;
+  font-size: 18pt;
+}
+
+.author {
+  text-align: right;  
+}
+
